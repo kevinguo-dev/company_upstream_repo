@@ -1,8 +1,8 @@
 # company_upstream_repo
 jjj
-kkk
+kkk666
 important update
-ooo
+ooo777
 mmm
 nnn
 
